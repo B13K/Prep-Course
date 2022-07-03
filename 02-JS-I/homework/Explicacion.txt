@@ -1,0 +1,11 @@
+explicaciones
+
+Variable: es una palabra donde puedo almacenar el valor de algo (string, bool, number).
+
+strings: son cadenas de caracteres que se ecriben entre comillas simples o dobles.
+
+Funciones (argumentos, 'return'): son metodos donde se pueden realizar tareas y que tambien pueden devolver algun valor, las funciones tambien pueden tener argumentos que pueden ser usados en el codigo dentro de la funcion.
+
+Declaraciones: son statemens que condificionan como va a funcionar el programa escrito, el codigo escrito dentro de la declaracion if se ejecutara solo si la expresion escrita entre los parentesis es veradero.
+
+valores booleanos: son variables que pueden tener 2 estados, true o false
