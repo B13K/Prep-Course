@@ -1,0 +1,15 @@
+Definiciones
+
+for:    es un bucle que al inicio se declara una variable, normalmente un numero,
+        luego se escribe la condicion, y despues se aumenta el valor de la variable en 1,
+        este bucle ejecuta el codigo repetidamente hasta que la condicion sea falsa.
+
+&&:     es un operador logico que indica que para que una expresion sea verdadera,
+        todas las condiciones de la expresion tienen que ser verdaderas, si alguna
+        es falsa, la expresion sera falsa.
+
+||:     Es un operador logico que indica que para que una expresion sea verdadera,
+        almenos una condicion de la expresion tiene que ser verdadera. sino todas son 
+        falsas, la expresion sera falsa.
+
+!:      Es un operador de negacion, el signo te admiracion colocado antes de cualquier expresion sera negado.
