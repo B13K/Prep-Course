@@ -1,0 +1,4 @@
+Definicion:
+
+Array: Es una coleccion de datos, es una variable que puede almacenar string, datos booleanos, numeros, funciones y arrays (listas).
+        podemos acceder a los datos mediante su indice.
