@@ -1,0 +1,12 @@
+Explicaciones
+
+Objeto: es una variables con propiedades Key-Value
+
+Propiedades: Son valores del objeto, por ejemplo el nombre, apellido, edad, correo.
+Metodos: son funciones propias de un objeto.
+
+Bucle "For... In: Es un bucle For que recorre las propiedades de un objeto.
+
+Puntos vs corchetes: La notacion de puntos los usamos con mas frecuencia por 
+                        mas faciles e usar, la notacion de corchetes lo usamos cuando
+                        usamos variables.
