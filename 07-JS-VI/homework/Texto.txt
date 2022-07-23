@@ -1,0 +1,3 @@
+Definiciones
+
+- Callback: Son funciones que se pueden invocar dentro de otra funcion y se pueden enviar como parametro

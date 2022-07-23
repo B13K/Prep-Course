@@ -1,0 +1,6 @@
+Conceptos
+
+- Prototype: Es la clase padre de un objeto, ahi se puede escribir funciones que puede ser usado en una gran cantidad de objetos creados
+             sin consumir mucha memorias.
+
+- Constructor: Son las funciones iniciales de las clases al cual se le pasa los parametros que tomaran las propiedas del objeto.
